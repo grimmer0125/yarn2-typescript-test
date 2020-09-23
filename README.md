@@ -1,1 +1,1 @@
-# testyarn2
+# yarn2-typescript-test
