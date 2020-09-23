@@ -1,0 +1,6 @@
+{
+  "name": "testyarn2",
+  "dependencies": {
+    "daikon": "^1.2.42"
+  }
+}
