@@ -2,5 +2,14 @@
   "name": "testyarn2",
   "dependencies": {
     "daikon": "^1.2.42"
-  }
+  },
+  "scripts": {
+    "server": "yarn workspace server",
+    "be": "yarn workspace server"
+  },
+  "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ]
 }

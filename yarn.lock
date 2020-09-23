@@ -5,6 +5,12 @@ __metadata:
   version: 4
   cacheKey: 6
 
+"client@workspace:client":
+  version: 0.0.0-use.local
+  resolution: "client@workspace:client"
+  languageName: unknown
+  linkType: soft
+
 "daikon@npm:^1.2.42":
   version: 1.2.42
   resolution: "daikon@npm:1.2.42"
@@ -28,6 +34,12 @@ __metadata:
   checksum: 71c60150b68220ec52a404f3c39a4ed38f750e42452b88fe0eb2e6b5c98e91f73f706444359b097aca1e6db83ef8fef50b5a9ec100e30a606cda6da8d45e5439
   languageName: node
   linkType: hard
+
+"server@workspace:server":
+  version: 0.0.0-use.local
+  resolution: "server@workspace:server"
+  languageName: unknown
+  linkType: soft
 
 "testyarn2@workspace:.":
   version: 0.0.0-use.local
